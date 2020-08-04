@@ -1,0 +1,4 @@
+{
+  "add_stock":{"case_name":"添加库存","http_code":200,"Provider":"超云","Model":"鼠标","Price":110,"Inventory":10,"Quantity":10},
+  "upd_stock":{"case_name":"修改库存","http_code":200,"Provider":"狗蛋","Model":"显示器","Price":200,"Inventory":20,"Quantity":20}
+}

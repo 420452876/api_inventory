@@ -1,0 +1,4 @@
+{
+  "add_cust":{"case_name":"添加顾客","http_code":200,"Shipper":"蔡文姬","Model":"vivo","Name":"小赵","Phone":"13511112222","Address":"深圳"},
+  "upd_cust":{"case_name":"修改顾客","http_code":200,"Shipper":"潇洒","Model":"oppo","Name":"加油","Phone":"13455556666","Address":"深圳南山"}
+}
